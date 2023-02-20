@@ -23,3 +23,7 @@ print(word6.similarity(word5))
 print(word6.similarity(word4))
 
 #The word "table" and "fire" are the most similar while the similarity between fire and water is low 
+
+
+#Difference between the model 'en_core_web_md' and 'en_core_web_ms'
+#en_core_web_md provides higher accuracy and better performance in tasks such as named entity recognition. The similarity score is higher in 'en_core_web_sm' than in 'en_core_web_md'
